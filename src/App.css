@@ -1,0 +1,81 @@
+
+
+body {
+  background: rgb(142,195,34);
+  background: linear-gradient(353deg, rgba(142,195,34,1) 0%, rgba(253,214,45,1) 100%);
+}
+
+.App {
+  text-align: center;
+  width: 1000px;
+  margin: auto;
+}
+
+.VideoSearch{
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 35px;
+}
+
+.logo {
+  border: 1px solid rgb(100, 2, 2);
+  background-color: rgb(221, 60, 60);
+  width: 100px;
+  padding: 5px;
+  border-radius: 20px;
+  color: white;
+  margin-right: 210px;
+  margin-left: 30px;
+}
+
+input {
+  font-size: 18px;
+  font-weight: bolder;
+  width: 600px;
+}
+
+
+
+
+.content {
+  display: flex;
+}
+
+iframe{
+  height: 400px;
+  width: 630px;
+  margin-left: 30px;
+  box-shadow: 0px 0px 9px -4px rgba(0,0,0,0.75);
+
+}
+
+.MainVideoContent h1  {
+  margin-left: 45px;
+  text-align: left;
+  font-size: 20px;
+}
+
+.MainVideoContent p {
+  margin-left: 45px;
+  text-align: left;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.VideoLink {
+  display: flex;
+}
+
+.VideoLink img {
+  width: 45%;
+  margin-left: 10px;
+  margin-bottom: 10px;  
+  box-shadow: 0px 0px 9px -4px rgba(0,0,0,0.75);
+}
+
+.VideoLink h1 {
+ font-size: 10px;
+ text-align: left;
+ margin-left: 10px;
+} 
