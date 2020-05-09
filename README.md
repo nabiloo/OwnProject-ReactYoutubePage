@@ -1,6 +1,17 @@
 ![Demo](./src/Screenshot.png)
 
 
+## ReactYoutubePage
+
+Search met dit app naar youTube-videos. Na de Search krijg je een lijst met thumbnail-videos te zien waar je op kunt klikken en waarna de video direct zal starten.
+
+###### De app maakt gebruik van de Youtube API, om de app werkend te krijgen heb je een API key nodig (toevoegen in App.js).  
+
+### Project doel
+Dit zelf project is bedoeld als oefening-project om vertrouwd te raken met React en API connections.
+
+
+
 
 
 ### React 
